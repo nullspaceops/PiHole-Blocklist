@@ -1,0 +1,72 @@
+# This is my personal list for PiHole. You may use it at your own risk/responsibilty. Don't screw your network up.
+#
+# I have added domains I don't like for any arbitrary reason or no reason.
+# I don't care if they also appear in any other blocklist.
+#
+# Any reason:
+
+127.0.0.1    bild.de
+127.0.0.1    m.bild.de
+127.0.0.1    coinhive.com
+127.0.0.1    coin-hive.com
+127.0.0.1    srv91.admedit.net
+127.0.0.1    admedit.net
+127.0.0.1    app.speedup-mac.fun
+127.0.0.1    app1.speedup-mac.fun
+127.0.0.1    app2.speedup-mac.fun
+127.0.0.1    app3.speedup-mac.fun
+127.0.0.1    app4.speedup-mac.fun
+127.0.0.1    app5.speedup-mac.fun
+127.0.0.1    adimg.uimserv.net 
+127.0.0.1    ad11.adfarm1.adition.com 
+127.0.0.1    volksfreund.de
+
+# Known Scam
+127.0.0.1    pypal.kunden-sicherung.in # Scam Mail received on 01/11/18 
+
+# Press https://ssl.marktwaechter.de/pressemeldung/marktwaechterwarnung-dubioses-streaming-netzwerk-lockt-verbraucher-abofalle
+# Ad filter list http://docs.dpaq.de/13049-liste-streaming_vzrlp.pdf
+# Youtube Sempervideo https://www.youtube.com/watch?v=onaWH3jMCf0&
+
+127.0.0.1    bigostream.de
+127.0.0.1    boboflix.com
+127.0.0.1    bobstream.de
+127.0.0.1    cinemadome.net
+127.0.0.1    cinemaxx24.com
+127.0.0.1    cineplex24.de
+127.0.0.1    dodoflix.com
+127.0.0.1    felixkino.com
+127.0.0.1    filmpalast24.com
+127.0.0.1    fixago.de
+127.0.0.1    flexkino.com
+127.0.0.1    flixkino.com
+127.0.0.1    imaxcine.com
+127.0.0.1    imaxdome.com
+127.0.0.1    imaxFilme.com
+127.0.0.1    imaxkino.com
+127.0.0.1    imaxtime.com
+127.0.0.1    imaxWelt.com
+127.0.0.1    kinoflexx.com
+127.0.0.1    kinolox.de
+127.0.0.1    kinopalast24.com
+127.0.0.1    kinoplexx.com
+127.0.0.1    kinowelt24.com
+127.0.0.1    kinozeit.net
+127.0.0.1    loxostream.de
+127.0.0.1    maxxflix.de
+127.0.0.1    meinkinowelt.com
+127.0.0.1    mexflix.com
+127.0.0.1    mexkino.com
+127.0.0.1    streamago.de
+127.0.0.1    streamdome.de
+127.0.0.1    streamgogo.de
+127.0.0.1    streamlox.com
+127.0.0.1    streamnox.com
+127.0.0.1    streamogo.de
+127.0.0.1    streamoro.de
+127.0.0.1    streamtime.de
+127.0.0.1    streamtoto.de
+127.0.0.1    streamtox.com
+127.0.0.1    streamzeit.de
+127.0.0.1    wowflix.de
+127.0.0.1    yalastream.de

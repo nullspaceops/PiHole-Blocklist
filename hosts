@@ -20,7 +20,9 @@
 0.0.0.0    adimg.uimserv.net 
 0.0.0.0    ad11.adfarm1.adition.com 
 0.0.0.0    volksfreund.de
-0.0.0.0    volksfreund.de
+0.0.0.0    m.volksfreund.de
+0.0.0.0    pokefans.net
+0.0.0.0	   forum.pokefans.net
 
 # Known Scam
 0.0.0.0    pypal.kunden-sicherung.in # Scam Mail received on 01/11/18 
@@ -72,6 +74,7 @@
 0.0.0.0    wowflix.de
 0.0.0.0    yalastream.de
 0.0.0.0    nurhdfilme.com
+
 
 # Don't ask
 

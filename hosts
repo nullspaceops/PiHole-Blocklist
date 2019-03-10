@@ -2,84 +2,87 @@
 #
 # I have added domains I don't like for any arbitrary reason or no reason.
 # I don't care if they also appear in any other blocklist.
+# 127.0.0.1
+# 0.0.0.0
 #
 # Any reason:
 
-0.0.0.0    bild.de
-0.0.0.0    m.bild.de
-0.0.0.0    coinhive.com
-0.0.0.0    coin-hive.com
-0.0.0.0    srv91.admedit.net
-0.0.0.0    admedit.net
-0.0.0.0    app.speedup-mac.fun
-0.0.0.0    app1.speedup-mac.fun
-0.0.0.0    app2.speedup-mac.fun
-0.0.0.0    app3.speedup-mac.fun
-0.0.0.0    app4.speedup-mac.fun
-0.0.0.0    app5.speedup-mac.fun
-0.0.0.0    adimg.uimserv.net 
-0.0.0.0    ad11.adfarm1.adition.com 
-0.0.0.0    volksfreund.de
-0.0.0.0    m.volksfreund.de
-0.0.0.0    pokefans.net
-0.0.0.0	   forum.pokefans.net
+127.0.0.1    bild.de
+127.0.0.1    m.bild.de
+127.0.0.1    coinhive.com
+127.0.0.1    coin-hive.com
+127.0.0.1    srv91.admedit.net
+127.0.0.1    admedit.net
+127.0.0.1    app.speedup-mac.fun
+127.0.0.1    app1.speedup-mac.fun
+127.0.0.1    app2.speedup-mac.fun
+127.0.0.1    app3.speedup-mac.fun
+127.0.0.1    app4.speedup-mac.fun
+127.0.0.1    app5.speedup-mac.fun
+127.0.0.1    adimg.uimserv.net 
+127.0.0.1    ad11.adfarm1.adition.com 
+127.0.0.1    volksfreund.de
+127.0.0.1    m.volksfreund.de
+127.0.0.1    pokefans.net
+127.0.0.1	   forum.pokefans.net
 
 # Known Scam
-0.0.0.0    pypal.kunden-sicherung.in # Scam Mail received on 01/11/18 
+127.0.0.1    pypal.kunden-sicherung.in # Scam Mail received on 01/11/18 
 
 # Press https://ssl.marktwaechter.de/pressemeldung/marktwaechterwarnung-dubioses-streaming-netzwerk-lockt-verbraucher-abofalle
 # Ad filter list http://docs.dpaq.de/13049-liste-streaming_vzrlp.pdf
 # Youtube Sempervideo https://www.youtube.com/watch?v=onaWH3jMCf0&
 
-0.0.0.0    bigostream.de
-0.0.0.0    boboflix.com
-0.0.0.0    bobstream.de
-0.0.0.0    cinemadome.net
-0.0.0.0    cinemaxx24.com
-0.0.0.0    cineplex24.de
-0.0.0.0    dodoflix.com
-0.0.0.0    felixkino.com
-0.0.0.0    filmpalast24.com
-0.0.0.0    fixago.de
-0.0.0.0    flexkino.com
-0.0.0.0    flixkino.com
-0.0.0.0    imaxcine.com
-0.0.0.0    imaxdome.com
-0.0.0.0    imaxFilme.com
-0.0.0.0    imaxkino.com
-0.0.0.0    imaxtime.com
-0.0.0.0    imaxWelt.com
-0.0.0.0    kinoflexx.com
-0.0.0.0    kinolox.de
-0.0.0.0    kinopalast24.com
-0.0.0.0    kinoplexx.com
-0.0.0.0    kinowelt24.com
-0.0.0.0    kinozeit.net
-0.0.0.0    loxostream.de
-0.0.0.0    maxxflix.de
-0.0.0.0    meinkinowelt.com
-0.0.0.0    mexflix.com
-0.0.0.0    mexkino.com
-0.0.0.0    streamago.de
-0.0.0.0    streamdome.de
-0.0.0.0    streamgogo.de
-0.0.0.0    streamlox.com
-0.0.0.0    streamnox.com
-0.0.0.0    streamogo.de
-0.0.0.0    streamoro.de
-0.0.0.0    streamtime.de
-0.0.0.0    streamtoto.de
-0.0.0.0    streamtox.com
-0.0.0.0    streamzeit.de
-0.0.0.0    wowflix.de
-0.0.0.0    yalastream.de
-0.0.0.0    nurhdfilme.com
+127.0.0.1    bigostream.de
+127.0.0.1    boboflix.com
+127.0.0.1    bobstream.de
+127.0.0.1    cinemadome.net
+127.0.0.1    cinemaxx24.com
+127.0.0.1    cineplex24.de
+127.0.0.1    dodoflix.com
+127.0.0.1    felixkino.com
+127.0.0.1    filmpalast24.com
+127.0.0.1    fixago.de
+127.0.0.1    flexkino.com
+127.0.0.1    flixkino.com
+127.0.0.1    imaxcine.com
+127.0.0.1    imaxdome.com
+127.0.0.1    imaxFilme.com
+127.0.0.1    imaxkino.com
+127.0.0.1    imaxtime.com
+127.0.0.1    imaxWelt.com
+127.0.0.1    kinoflexx.com
+127.0.0.1    kinolox.de
+127.0.0.1    kinopalast24.com
+127.0.0.1    kinoplexx.com
+127.0.0.1    kinowelt24.com
+127.0.0.1    kinozeit.net
+127.0.0.1    loxostream.de
+127.0.0.1    maxxflix.de
+127.0.0.1    meinkinowelt.com
+127.0.0.1    mexflix.com
+127.0.0.1    mexkino.com
+127.0.0.1    streamago.de
+127.0.0.1    streamdome.de
+127.0.0.1    streamgogo.de
+127.0.0.1    streamlox.com
+127.0.0.1    streamnox.com
+127.0.0.1    streamogo.de
+127.0.0.1    streamoro.de
+127.0.0.1    streamtime.de
+127.0.0.1    streamtoto.de
+127.0.0.1    streamtox.com
+127.0.0.1    streamzeit.de
+127.0.0.1    wowflix.de
+127.0.0.1    yalastream.de
+127.0.0.1    nurhdfilme.com
 
 
 # Don't ask
 
-0.0.0.0    waethaifxuhbe.com
-0.0.0.0    jwgsepzz.com
-0.0.0.0	 hysyqgbls.com
-0.0.0.0	 kbx1sth37s.com
-0.0.0.0    zhpdtoott.com
+127.0.0.1   waethaifxuhbe.com
+127.0.0.1   jwgsepzz.com
+127.0.0.1	hysyqgbls.com
+127.0.0.1	kbx1sth37s.com
+127.0.0.1   zhpdtoott.com
+127.0.0.1	gxklbrtpqqyvy.com
